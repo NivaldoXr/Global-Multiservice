@@ -16,9 +16,9 @@ Professional website for a vehicle import business, featuring a custom admin pan
 
 
 ## Try it
-
 In this test drive you can simulate what it would be like to import a car to mocambique with global multiservice. Click "Simulate Import", after that you can download detaild PDF with taxes and final price , Enjoy.
+
 Password:global12345
 
-https://globalmultiservice-ed98b.web.app/
-https://globalmultiservice-ed98b.web.app/admin
+Live Website : https://globalmultiservice-ed98b.web.app/
+Admin Panel: https://globalmultiservice-ed98b.web.app/admin
